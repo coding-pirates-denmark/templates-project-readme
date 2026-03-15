@@ -1,4 +1,4 @@
-# <PROJECT TITLE>
+# `<PROJECT TITLE>`
 
 > Kort beskrivelse (1–2 linjer) af projektets formål og hvad man lærer.
 
